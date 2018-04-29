@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemoAutoMationJenkinSai", "SemoAutoMationJenkinSai\SemoAutoMationJenkinSai.csproj", "{6A182B0A-68EE-4FFB-A991-2EFBB5285F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A182B0A-68EE-4FFB-A991-2EFBB5285F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A182B0A-68EE-4FFB-A991-2EFBB5285F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A182B0A-68EE-4FFB-A991-2EFBB5285F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A182B0A-68EE-4FFB-A991-2EFBB5285F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9660D217-7EF1-4990-9F80-8A1C989884A5}
+	EndGlobalSection
+EndGlobal
